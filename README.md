@@ -30,12 +30,6 @@ refA | Produit A | price=50 | qty=3  | total=150
 refB | Produit B | price=25 | qty=9  | total=225
 ```
 
-## Tests unitaires
-```bash
-npm test
-# ou en watch:
-npm run test:watch
-```
 
 ## Structure
 ```
